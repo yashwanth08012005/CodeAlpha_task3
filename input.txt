@@ -1,0 +1,4 @@
+Contact us at support@example.com  
+For HR queries: hr.company123@gmail.com  
+Fake email: test@abc  
+Admin: admin_01@college.edu
